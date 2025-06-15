@@ -1,4 +1,4 @@
-# Telegram Checker Bot
+# Telegram bot 
 
 Bot Telegram multifungsi untuk mengecek nomor Telegram, OTP, A2F, mendapatkan informasi pengguna dengan BotAcax API, dan berinteraksi dengan AI (OpenAI & Gemini).
 
