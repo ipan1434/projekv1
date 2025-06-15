@@ -76,7 +76,7 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
   ```
   pkg update && pkg upgrade -y
   ```
- pkg install python python-pip && pkg install git -y
+  pkg install python python-pip && pkg install git -y
   ```
   ```
     git clone https://github.com/ipan1434/projekv1 && cd projekv1
