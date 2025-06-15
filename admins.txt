@@ -1,0 +1,4 @@
+# admins.txt
+# Setiap baris adalah satu ID Telegram admin
+112233445
+554433221

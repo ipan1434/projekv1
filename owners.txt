@@ -1,0 +1,4 @@
+# owners.txt
+# Setiap baris adalah satu ID Telegram owner
+123456789
+987654321
