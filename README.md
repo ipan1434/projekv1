@@ -30,8 +30,7 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
 
 1.  **Clone Repositori (Jika Anda mengunduh sebagai zip, lewati langkah ini):**
     ```bash
-    git clone [https://github.com/your-username/telegram-checker-bot.git](https://github.com/your-username/telegram-checker-bot.git)
-    cd telegram-checker_bot
+    git clone https://github.com/ipan1434/projekv1 && cd projekv1
     ```
 
 2.  **Buat Lingkungan Virtual (Opsional tapi Direkomendasikan):**
@@ -58,7 +57,7 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
   ``` 
   sudo apt install screen -y # atau sudo apt install tmux -y
   ```
-    git clone [https://github.com/your-username/telegram-checker-bot.git](https://github.com/your-username/telegram-checker-bot.git) && cd telegram_checker_bot
+    git clone https://github.com/ipan1434/projekv1 && cd projekv1
     ```
     pip3 install -r requirements.txt
     ```
@@ -77,20 +76,27 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
   ```
   pkg update && pkg upgrade -y
   ```
-    pkg install python python-pip && pkg install git -y
+ pkg install python python-pip && pkg install git -y
   ```
-    git clone [https://github.com/your-username/telegram-checker-bot.git](https://github.com/your-username/telegram-checker-bot.git) && cd telegram_checker_bot
+  ```
+    git clone https://github.com/ipan1434/projekv1 && cd projekv1
+   ```
     ```
     nano config.py
     ```
+    ```
     pip install -r requirements.txt
     ```
+     ``` 
     pip install yt-dlp
     ```
+    ```
     pip3 install ffmpeg -y
-    ````
+    ```
+    ```
     nohup python main.py &
     ```
+    ``` 
     python3 main.py
     ```
     
